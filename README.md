@@ -20,3 +20,4 @@
 - encoding = key to decipher the bits/ bytes
 - UTF-8 Industry Standart, downwards compatible with ASCII
 - the Internet can only understand ASCII characters. Hence URL enconding ist the golden rule of converting all non-ASCII characters
+# paula
