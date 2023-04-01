@@ -1,2 +1,2 @@
 yada yada
-test for Vim
+test for VsCode
